@@ -1,0 +1,24 @@
+.boz{
+  background-color: turquoise;
+  display: flex;
+  justify-content: center;
+}
+
+.box{
+  display: flex;
+  flex-direction: row;
+  background-color: teal;
+  text-indent: 25px;
+}
+.fr{
+  background-color: rgb(207, 207, 207);
+}
+.sw{
+  border-radius: 50px;
+}
+.rt{
+  border-radius: 50px;
+}
+.qw{
+  border-radius: 100px;
+}
